@@ -1,6 +1,6 @@
 ## Photobooth Projects 📷
 
-- [Rhode Photobooth](https://github.com/itselllio/rhode-photobooth)
+- [Rhode Photobooth](https://itselllio.github.io/rhode-photobooth/)
 - [EL Studio](https://github.com/itselllio/elstudio)
 - [Christmas Photobooth](https://github.com/itselllio/christmas-photobooth)
 
